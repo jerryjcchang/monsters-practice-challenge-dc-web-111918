@@ -5999,6 +5999,24 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "Mike",
+      "age": 244234.221,
+      "description": "One Eye",
+      "id": 1001
+    },
+    {
+      "name": "Sully",
+      "age": "200000",
+      "description": "fluffy",
+      "id": 1002
+    },
+    {
+      "name": "Randall Boggs",
+      "age": "34032923",
+      "description": "slimy mofo",
+      "id": 1003
     }
   ]
 }
